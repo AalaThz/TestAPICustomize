@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SourceTest\\TestAPICustomize\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37C678F0-F6AF-46B1-8F39-D0B5EF825857}|TestAPICustomize\\TestAPICustomize.csproj|d:\\sourcetest\\testapicustomize\\testapicustomize\\controllers\\familycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C678F0-F6AF-46B1-8F39-D0B5EF825857}|TestAPICustomize\\TestAPICustomize.csproj|solutionrelative:testapicustomize\\controllers\\familycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C678F0-F6AF-46B1-8F39-D0B5EF825857}|TestAPICustomize\\TestAPICustomize.csproj|d:\\sourcetest\\testapicustomize\\testapicustomize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C678F0-F6AF-46B1-8F39-D0B5EF825857}|TestAPICustomize\\TestAPICustomize.csproj|solutionrelative:testapicustomize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 192,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SourceTest\\TestAPICustomize\\TestAPICustomize\\Program.cs",
+              "RelativeDocumentMoniker": "TestAPICustomize\\Program.cs",
+              "ToolTip": "D:\\SourceTest\\TestAPICustomize\\TestAPICustomize\\Program.cs",
+              "RelativeToolTip": "TestAPICustomize\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T09:13:19.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FamilyController.cs",
+              "DocumentMoniker": "D:\\SourceTest\\TestAPICustomize\\TestAPICustomize\\Controllers\\FamilyController.cs",
+              "RelativeDocumentMoniker": "TestAPICustomize\\Controllers\\FamilyController.cs",
+              "ToolTip": "D:\\SourceTest\\TestAPICustomize\\TestAPICustomize\\Controllers\\FamilyController.cs",
+              "RelativeToolTip": "TestAPICustomize\\Controllers\\FamilyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T09:06:57.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
